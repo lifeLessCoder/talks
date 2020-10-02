@@ -7,6 +7,6 @@
 
 ## GDG Bangalore DevFest (Oct' 17)
 
-* Slides: https://goo.gl/9gfUUq
+* Slides: https://goo.gl/9gfUU
 * Code: https://github.com/arjun-rao/AppScriptDemo
 
